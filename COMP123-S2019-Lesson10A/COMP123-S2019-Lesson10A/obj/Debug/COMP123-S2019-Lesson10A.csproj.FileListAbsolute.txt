@@ -1,0 +1,12 @@
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\bin\Debug\COMP123-S2019-Lesson10A.exe.config
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\bin\Debug\COMP123-S2019-Lesson10A.exe
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\bin\Debug\COMP123-S2019-Lesson10A.pdb
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123-S2019-Lesson10A.csprojAssemblyReference.cache
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123_S2019_Lesson10A.EndForm.resources
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123_S2019_Lesson10A.MainForm.resources
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123_S2019_Lesson10A.Properties.Resources.resources
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123_S2019_Lesson10A.StartForm.resources
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123-S2019-Lesson10A.csproj.GenerateResource.cache
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123-S2019-Lesson10A.csproj.CoreCompileInputs.cache
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123-S2019-Lesson10A.exe
+C:\Users\301043697\Desktop\COMP123-S2019-Lesson10A\COMP123-S2019-Lesson10A\obj\Debug\COMP123-S2019-Lesson10A.pdb
